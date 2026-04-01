@@ -27,12 +27,12 @@
     "@react-three/drei": "^9.77.0",
     "@react-three/fiber": "^8.13.0",
     "@reduxjs/toolkit": "^2.8.2",
-    "axios": "^1.11.0",
+    "axios": "^1.13.5",
     "chart.js": "^4.3.0",
     "esri-leaflet": "^3.0.17",
     "html2canvas": "^1.4.1",
-    "jspdf": "^3.0.1",
-    "jspdf-autotable": "^5.0.2",
+    "jspdf": "^4.2.0",
+    "jspdf-autotable": "^5.0.7",
     "leaflet": "^1.9.4",
     "pg": "^8.16.1",
     "react": "^18.2.0",
@@ -40,7 +40,7 @@
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.2.1",
     "react-redux": "^9.2.0",
-    "react-router-dom": "^7.7.1",
+    "react-router-dom": "^7.13.0",
     "recharts": "^2.5.0",
     "socket.io-client": "^4.8.1",
     "three": "^0.153.0"
@@ -53,6 +53,6 @@
     "eslint": "^8.38.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
-    "vite": "^4.3.9"
+    "vite": "^5.4.21"
   }
 }
